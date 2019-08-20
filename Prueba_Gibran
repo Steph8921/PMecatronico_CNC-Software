@@ -1,0 +1,4 @@
+int prueba
+if prueba == true {
+  printf("Prueba");
+}
